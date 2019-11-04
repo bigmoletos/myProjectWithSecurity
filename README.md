@@ -208,13 +208,22 @@ Bravo, je savais que tu étais la personne de la situation. Je peux maintenant t
 /avengers/assemble : la route est accessible uniquement aux champions du SHIELD, et retourne le message "Avengers... Assemble".
 •
 /secret-bases : cette page n'est accessible que par le directeur du SHIELD, et retourne la liste de toutes les villes où il y a une Wild Code School (regarde cette page pour t'aider).
+
+
 Ton projet doit créer des identifiants pour les utilisateurs suivants :
-Nom Steve Nick
-Mot de passe  motdepasse
-Rôle
-CHAMPION
+ 
+Mot de passe:
+motdepasse
+
+champions:
+Steve
+Nick
 flerken
+
+Rôles:
+CHAMPION
 DIRECTOR
+ADMIN
 
 
 
